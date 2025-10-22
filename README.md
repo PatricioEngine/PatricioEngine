@@ -11,8 +11,10 @@ Hi, I'm Eduardo Patricio!
 </h1>
 
 <p align="center">
-	<img src="https://user-images.githubusercontent.com/53114757/186635038-9a8fc243-a75c-471c-8e2c-310ec84f1ed2.gif" width="300" height="250"/>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+	<img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px>
+
+ 
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 
   A passionate Peruvian programmer. I'm fascinated by how computer technology 🌐 has brought unexpected changes to our lives. Witnessing the expansion of computing led me to consider studying computer science and systems engineering from a young age, and my enthusiasm has grown steadily ever since. I also love exploring new technologies 💻 and leveraging them to create cool things 🛠️
 </p>
